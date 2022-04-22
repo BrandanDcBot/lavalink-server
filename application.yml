@@ -1,9 +1,9 @@
 server: # REST and WS server
-  port: 80
+  port: 10
   address: 0.0.0.0
 lavalink:
   server:
-    password: "coders"
+    password: "opWalaPass"
     sources:
       youtube: true
       bandcamp: true
